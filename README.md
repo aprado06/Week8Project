@@ -16,7 +16,7 @@ Each version of the site has been given two of the six vulnerabilities. (In othe
 
 ## Blue
 
-Vulnerability #1: SQL Injection 
+Vulnerability #1: SQL Injection &nbsp;
 Can inject sql in the id parameter to make the website sleep/ have a delay.
 
 <img src="gifs/BlueSleepSQLi.gif" width="800">
